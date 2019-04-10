@@ -9,5 +9,6 @@
 </head>
 <body>
 <a href="boardlist.jsp">글목록</a>
+<span>소스수정</span>
 </body>
 </html>
